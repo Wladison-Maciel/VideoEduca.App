@@ -55,7 +55,7 @@
   O motivo de usarmos o Swift como Linguagem base, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
 </p>
 
-##📈Fluxograma:
+## 📈Fluxograma:
 
 <h3>
   Estamos produzindo ainda, ao final do andamento lançaremos o Fluxograma.
