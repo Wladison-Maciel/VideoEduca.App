@@ -17,3 +17,16 @@
 - [Imagens do Aplicativo](#Imagens-do-Aplicativo)
 - [Video do Aplicativo](#Video-do-Aplicativo)
 - [Equipe de Desenvolvimento](#Equipe-de-Desenvolvimento)
+
+## ❔Sobre:
+
+## 💡Recursos:
+
+## 🤷‍♂️Para que foi Desenvolvido:
+
+## 💻Plataforma de Desenvolvimento Utilizada:
+
+## 💬Linguagem Utilizada:
+
+## 📸Imagens do Aplicativo:
+
