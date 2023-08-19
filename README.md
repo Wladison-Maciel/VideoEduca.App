@@ -30,6 +30,10 @@
 
 ## 📸Imagens do Aplicativo:
 
+<h3 align = "center">
+  😐 Infelizmente no momento não temos imagens ainda do nosso App, mas aguarde, em Breve forneceremos mais informações 😉
+</h3>
+
 ## 🎥Video do Aplicativo:
 
 <h3 align = "center">
