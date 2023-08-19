@@ -1,3 +1,7 @@
+<div align ="center">
+  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/9661b7d1-69ad-4c05-8574-708bff520d7b" width = "500px"/>
+  </div>
+
 <h1 align = "center">
   Seja bem-vindo ao projeto da BlackCat Company
 </h1>
