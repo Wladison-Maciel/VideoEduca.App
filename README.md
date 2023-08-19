@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align = "center">
-  "Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar."
+  `` Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
 </h4>
 
 <h2 align = "center">
