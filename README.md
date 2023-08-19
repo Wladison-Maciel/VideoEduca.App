@@ -30,3 +30,6 @@
 
 ## 📸Imagens do Aplicativo:
 
+## 🎥Video do Aplicativo:
+
+## 🤝Equipe de Desenvolvimento:
