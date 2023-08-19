@@ -14,6 +14,7 @@
 - [Como foi Desenvolvido](#Como-foi-Desenvolvido)
 - [Plataforma de Desenvolvimento Utilizada](#Plataforma-De-Desenvolvimento-Utilizada)
 - [Linguagem Utilizada](#Linguagem-Utilizada)
+- [Fluxograma](#Fluxograma)
 - [Imagens do Aplicativo](#Imagens-do-Aplicativo)
 - [Video do Aplicativo](#Video-do-Aplicativo)
 - [Equipe de Desenvolvimento](#Equipe-de-Desenvolvimento)
@@ -54,6 +55,12 @@
   O motivo de usarmos o Swift como Linguagem base, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
 </p>
 
+##📈Fluxograma:
+
+<h3>
+  Estamos produzindo ainda, ao final do andamento lançaremos o Fluxograma.
+</h3>
+
 ## 📸Imagens do Aplicativo:
 
 <h3 align = "center">
@@ -71,7 +78,7 @@
 ## 🤝Equipe de Desenvolvimento:
 
 <h3 align = "center">
-  Logo logo atualizaremos as informações sobre a equipe, mas você pode vê-la no repostório abaixo 👇
+  Logo logo soltaremos mais informações sobre a equipe, mas você pode vê-la completa no repostório abaixo 👇
 
   https://github.com/Wladison-Maciel/AplicativoCalculadora
   
