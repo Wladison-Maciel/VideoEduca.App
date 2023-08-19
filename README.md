@@ -22,6 +22,10 @@
 
 ## 💡Recursos:
 
+* [] Direcionamento para Video Aulas sobre a Matéria
+* [] Organização das Matérias
+* [] Simplicidade
+
 ## 🤷‍♂️Para que foi Desenvolvido:
 
 ## 💻Plataforma de Desenvolvimento Utilizada:
