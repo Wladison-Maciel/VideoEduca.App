@@ -29,7 +29,7 @@
 ## 🤷‍♂️Para que foi Desenvolvido:
 
 <p>
-  O app tem o intuito de ajudar os estudantes dos cursos Técnicos Integrados IFCE com problemas em achar conteúdos para lhe auxiliar em seus estudos.
+  O app tem o intuito de ajudar os estudantes dos cursos Técnicos Integrados do IFCE com problemas em achar conteúdos para lhe auxiliar em seus estudos.
 </p>
 
 ## 💻Plataforma de Desenvolvimento Utilizada:
