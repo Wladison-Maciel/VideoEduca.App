@@ -26,6 +26,13 @@
 
 ## 💻Plataforma de Desenvolvimento Utilizada:
 
+* ### Xcode
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+<p>
+  O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple( iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
+</p>
+
 ## 💬Linguagem Utilizada:
 
 * ### Swift
