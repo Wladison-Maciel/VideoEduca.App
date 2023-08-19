@@ -28,6 +28,17 @@
 
 ## 💬Linguagem Utilizada:
 
+* ### Swift
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+<h3>
+ Por que usar o Swift? 
+</h3>
+
+<p>
+  O motivo de usarmos o Swift como Linguagem base, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
+</p>
+
 ## 📸Imagens do Aplicativo:
 
 <h3 align = "center">
