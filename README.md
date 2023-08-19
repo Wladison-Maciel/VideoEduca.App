@@ -2,9 +2,15 @@
   Seja bem-vindo ao projeto da BlackCat Company
 </h1>
 
+<h4 align = "center">
+  "Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar."
+</h4>
+
 <h2 align = "center">
   🚧Projeto em Construção🚧
 </h2>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -23,7 +29,7 @@
 
 ## 💡Recursos:
 
-* [ ] Direcionamento para vídeo-aulas sobre a Matéria
+* [ ] Direcionamento para vídeo aulas sobre a Matéria
 * [ ] Organização das Matérias
 * [ ] Simplicidade no Uso
 
