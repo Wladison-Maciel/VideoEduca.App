@@ -2,13 +2,13 @@
   <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/9661b7d1-69ad-4c05-8574-708bff520d7b" width = "500px"/>
   </div>
 
-<h1 align = "center">
-  Seja bem-vindo ao projeto da BlackCat Company
-</h1>
+<h2 align = "center">
+  Seja bem-vindo ao aplicativo da BlackCat Company
+</h2>
 
-<h4 align = "center">
-  `` Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
-</h4>
+<p align = "center">
+ `` Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
+</p>
 
 <h2 align = "center">
   🚧Projeto em Construção🚧
