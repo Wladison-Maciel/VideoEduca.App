@@ -22,9 +22,9 @@
 
 ## 💡Recursos:
 
-* [] Direcionamento para Video Aulas sobre a Matéria
-* [] Organização das Matérias
-* [] Simplicidade
+* [ ] Direcionamento para Video Aulas sobre a Matéria
+* [ ] Organização das Matérias
+* [ ] Simplicidade no Uso
 
 ## 🤷‍♂️Para que foi Desenvolvido:
 
