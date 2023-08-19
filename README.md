@@ -32,4 +32,18 @@
 
 ## 🎥Video do Aplicativo:
 
+<h3 align = "center">
+  😔 Ainda não há um video do App, mas porteriormente será postado no Youtube 🤩
+  
+  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+</h3>
+
 ## 🤝Equipe de Desenvolvimento:
+
+<h3 align = "center">
+  Logo logo atualizaremos as informações sobre a equipe, mas você pode vê-la no repostório abaixo 👇
+
+  https://github.com/Wladison-Maciel/AplicativoCalculadora
+  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</h3>
