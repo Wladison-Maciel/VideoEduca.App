@@ -32,7 +32,7 @@
 ## ❔Sobre:
 
 <p>
-  O VideoEduca é uma ferramenta útil projetada para auxiliar os estudantes do IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará) em seus estudos. Ele funciona direcionando os estudantes para vídeo aulas relevantes, tornando o processo de aprendizado mais eficiente e eficaz. Os alunos podem selecionar sua disciplina ou assunto de interesse e o aplicativo exibirá uma lista de vídeo aulas recomendadas, todas relacionadas ao currículo do IFCE. Isso permite que os alunos complementem suas aulas regulares com recursos visuais e interativos, reforçando o entendimento dos tópicos.
+  O VideoEduca é uma ferramenta útil projetada para auxiliar os estudantes do IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará) em seus estudos. Ele funciona direcionando os estudantes para vídeo aulas relevantes, tornando o processo de aprendizado mais eficiente e rápido. Os alunos podem selecionar sua disciplina ou assunto de interesse e o aplicativo exibirá uma lista de vídeo aulas recomendadas, todas relacionadas ao currículo do IFCE. Isso permite que os alunos complementem suas aulas regulares com recursos visuais e interativos, reforçando o entendimento dos tópicos.
 </p>
 
 ## 💡Recursos:
