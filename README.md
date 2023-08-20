@@ -37,8 +37,9 @@
 ## 💡Recursos:
 
 * [ ] Direcionamento para vídeo aulas sobre a Matéria
-* [ ] Organização das Matérias
-* [ ] Simplicidade no Uso
+* [ ] Organização das matérias
+* [ ] Simplicidade no uso
+* [ ] Apresentação dos livros da biblioteca do IFCE
 
 ## 🤷‍♂️Para que foi Desenvolvido:
 
