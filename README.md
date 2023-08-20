@@ -91,6 +91,19 @@
 ## 🤝Equipe de Desenvolvimento:
 
 <h3 align = "center">
+
+
+<a title = "Você será direcionado ao perfil de Pedrofarley7" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
+<div>
+
+<a title = "Você será direcionado ao perfil de Gerdson28" href = "https://github.com//Gerdson28" >Gerdson28</a><br>
+<div>
+
+<a title = "Você será direcionado ao perfil de nicolasnk11" href = "https://github.com//nicolasnk11" >nicolasnk11</a><br>
+
+<a title = "Você será direcionado ao perfil de Wladison-Maciel" href = "https://github.com//Wladison-Maciel" >Wladison-Maciel</a><br>
+
+  
   Logo logo soltaremos mais informações sobre a equipe, mas você pode vê-la completa no repostório abaixo 👇
 
   https://github.com/Wladison-Maciel/AplicativoCalculadora
