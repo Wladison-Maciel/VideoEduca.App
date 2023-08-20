@@ -14,9 +14,8 @@
   🚧Projeto em Construção🚧
 </h2>
 
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 - [Sobre o App](#Sobre-o-App)
 - [Recursos](#Recursos)
