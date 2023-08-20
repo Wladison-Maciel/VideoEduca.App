@@ -39,7 +39,7 @@
 * [ ] Direcionamento para vídeo aulas sobre a matéria
 * [ ] Organização dos assuntos que serão estudados
 * [ ] Simplicidade no uso
-* [ ] Apresentação dos livros da biblioteca do IFCE
+* [ ] Indicação dos livros da biblioteca do IFCE
 
 ## 🤷‍♂️Para que foi Desenvolvido:
 
