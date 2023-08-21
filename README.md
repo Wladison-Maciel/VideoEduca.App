@@ -7,7 +7,7 @@
 </h2>
 
 <p align = "center">
- `` Videoaulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
+ `` Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
 </p>
 
 <h2 align = "center">
