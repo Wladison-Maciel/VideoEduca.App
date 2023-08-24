@@ -144,7 +144,7 @@
 </h4>
 
 <p>
-  Após descartar duas ideias achavamos que todo esforço fosse inútil, entretanto não perdemos a vontade de continuar a produzir um App bom, as vezes só precisamos sentar e pensar para depois fazer algo.
+  Após descartar duas ideias achavamos que todo esforço fosse inútil, entretanto não perdemos a vontade de continuar, as vezes só precisamos sentar e pensar para depois fazer algo.
 </p>
 
 <p align = "center">
