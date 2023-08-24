@@ -113,3 +113,39 @@
 
 ## 👀Curiosidades:
 
+<h3>
+  1° Ideia do App
+</h3>
+
+<p>
+  Inicialmente o Aplicativo era foca na área da saúde, mais especificadamente na parte de nutrição, era para ser um Aplicação sobre contagem de calorias e macronutrientes, após uma análise, percebemos que não era viável e nada inovador, então voltamos novamente para o papel repensar nossos planos.
+</p>
+
+<h3>
+  2° Ideia do App
+</h3>
+
+<p>
+  Depois de argumentar entre nossa equipe, surgiu a ideia de um App sobre a área da saúde novamente, mas desta vez, relacionado ao corpo humano, na qual teria várias informações relacionadas aos músculos, orgãos e ossos, futuramente podemos dar continuídade, mas por conta do tempo atualmente, novamente era inviável para nós produzi-lo, com isso tivemos de voltar para o papel.
+</p>
+
+<h3>
+  3° Ideia do App
+</h3>
+
+<p>
+  Desta vez fomos a fundo nos nosso pensamentos, o que realmente é preciso para um App ser bom, viável, simples mas inovador e que ajudasse as necessidades de um determinado tipo de público, após pensar bastante, focamos no problema e produzimos uma solução, assim surge o VideoEduca, que ajudará os estudantes do IFCE em seus estudos. A base da ideia foi feita, agora só é necessário continuar nesse caminho
+</p>
+
+
+<h4>
+  Motivação
+</h4>
+
+<p>
+  Após descartar duas ideias achavamos que todo esforço fosse inútil, entretanto não perdemos a vontade de continuar a produzir um App bom, as vezes só precisamos sentar e pensar para depois fazer algo.
+</p>
+
+<p align = "center">
+  ´ Mesmo que possa parecer que tudo esteja perdido, nunca deixe de buscar reverter ou melhorar isso ´
+</p>
