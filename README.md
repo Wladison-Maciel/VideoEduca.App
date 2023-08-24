@@ -37,10 +37,11 @@
 
 ## 💡Recursos:
 
-* [ ] Direcionamento para vídeo aulas sobre a matéria
-* [ ] Organização dos assuntos que serão estudados
-* [ ] Simplicidade no uso
-* [ ] Indicação dos livros da biblioteca do IFCE
+* [x] Direcionamento para vídeo aulas sobre a matéria
+* [x] Vídeo aulas somente para exercícios da disciplina 
+* [x] Organização dos assuntos que serão estudados
+* [x] Simplicidade no uso
+* [x] Indicação dos livros da biblioteca do IFCE (SophiA)
 
 ## 🤷‍♂️Para que foi Desenvolvido:
 
