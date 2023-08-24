@@ -119,7 +119,7 @@
 </h3>
 
 <p>
-  Inicialmente o Aplicativo era foca na área da saúde, mais especificadamente na parte de nutrição, era para ser um Aplicação sobre contagem de calorias e macronutrientes, após uma análise, percebemos que não era viável e nada inovador, então voltamos novamente para o papel repensar nossos planos.
+  Inicialmente o Aplicativo era focado na área da saúde, mais especificadamente na parte de nutrição, era para ser um Aplicação sobre contagem de calorias e macronutrientes, após uma análise, percebemos que não era viável e nada inovador, então voltamos novamente para o papel repensar nossos planos.
 </p>
 
 <h3>
@@ -127,7 +127,7 @@
 </h3>
 
 <p>
-  Depois de argumentar entre nossa equipe, surgiu a ideia de um App sobre a área da saúde novamente, mas desta vez, relacionado ao corpo humano, na qual teria várias informações relacionadas aos músculos, orgãos e ossos, futuramente podemos dar continuídade, mas por conta do tempo atualmente, novamente era inviável para nós produzi-lo, com isso tivemos de voltar para o papel.
+  Depois de argumentar entre nossa equipe, surgiu a ideia de um App sobre a área da saúde de novo, mas desta vez, relacionado ao corpo humano, na qual teria várias informações relacionadas aos músculos, orgãos e ossos, futuramente podemos dar continuídade, mas por conta do tempo atualmente, novamente era inviável para nós produzi-lo, com isso tivemos de voltar para o papel.
 </p>
 
 <h3>
