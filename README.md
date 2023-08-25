@@ -6,9 +6,10 @@
   Seja bem-vindo ao aplicativo da BlackCat Company
 </h2>
 
-<p align = "center">
- `` Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar ´´
-</p>
+``` Swift
+print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar")
+```
+
 
 <h2 align = "center">
   🚧Projeto em Construção🚧
