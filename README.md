@@ -135,7 +135,7 @@
 </h3>
 
 <p>
-  Desta vez fomos a fundo nos nosso pensamentos, o que realmente é preciso para um App ser bom, viável, simples mas inovador e que ajudasse as necessidades de um determinado tipo de público, após pensar bastante, focamos no problema e produzimos uma solução, assim surge o VideoEduca, que ajudará os estudantes do IFCE em seus estudos. A base da ideia foi feita, agora só é necessário continuar nesse caminho
+  Desta vez fomos a fundo nos nossos pensamentos, o que realmente é preciso para um App ser bom, viável, simples mas inovador e que ajudasse as necessidades de um determinado tipo de público, após pensar bastante, focamos no problema e produzimos uma solução, assim surge o VideoEduca, que ajudará os estudantes do IFCE em seus estudos. A base da ideia foi feita, agora só é necessário continuar nesse caminho
 </p>
 
 
