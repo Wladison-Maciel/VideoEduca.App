@@ -153,5 +153,5 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 </p>
 
 <p align = "center">
-  ´ Mesmo que possa parecer que tudo esteja perdido, nunca deixe de buscar reverter ou melhorar isso ´
+  ´ Mesmo que possa parecer que tudo esteja perdido, nunca deixe de buscar pela luz no fim do túnel ´
 </p>
