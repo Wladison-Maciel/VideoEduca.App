@@ -16,7 +16,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 </h2>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![Stars](https://img.shields.io/github/stars/Wladison-Maciel/VideoEduca.App.svg)
 
 - [Sobre o App](#Sobre-o-App)
 - [Recursos](#Recursos)
