@@ -15,7 +15,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
   🚧Projeto em Construção🚧
 </h2>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 ![Stars](https://img.shields.io/github/stars/Wladison-Maciel/VideoEduca.App.svg)
 ![Watchers](https://img.shields.io/github/watchers/Wladison-Maciel/VideoEduca.App.svg)
 ![Forks](https://img.shields.io/github/forks/Wladison-Maciel/VideoEduca.App.svg)
