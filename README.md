@@ -19,6 +19,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 ![Stars](https://img.shields.io/github/stars/Wladison-Maciel/VideoEduca.App.svg)
 ![Watchers](https://img.shields.io/github/watchers/Wladison-Maciel/VideoEduca.App.svg)
 ![Forks](https://img.shields.io/github/forks/Wladison-Maciel/VideoEduca.App.svg)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Wladison-Maciel/VideoEduca.App/main)
 ![Follows](https://img.shields.io/github/followers/Wladison-Maciel.svg?style=social&label=Follow&maxAge=2592000)
 
 - [Sobre o App](#Sobre-o-App)
