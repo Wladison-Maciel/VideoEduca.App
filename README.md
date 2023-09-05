@@ -82,9 +82,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 
 ## 📈Fluxograma:
 
-<h3 align = "center">
-  Estamos produzindo ainda, ao final do andamento lançaremos o Fluxograma.
-</h3>
+<img src = "https://github.com/Wladison-Maciel/VideoEduca.App/files/12527050/Diagrama.VideoEduca.pdf" />
 
 ## 📸Imagens do Aplicativo:
 
