@@ -82,7 +82,9 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 
 ## 📈Fluxograma:
 
-<img src = "https://github.com/Wladison-Maciel/VideoEduca.App/files/12527050/Diagrama.VideoEduca.pdf" />
+<h3>
+  Não estamos disponível
+</h3>
 
 ## 📸Imagens do Aplicativo:
 
