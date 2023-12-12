@@ -50,7 +50,6 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 * [x] Vídeo aulas somente para exercícios da disciplina 
 * [x] Organização dos assuntos que serão estudados
 * [x] Simplicidade no uso
-* [x] Indicação dos livros da biblioteca do IFCE (SophiA)
 
 ## 🤷‍♂️Para que foi Desenvolvido:
 
