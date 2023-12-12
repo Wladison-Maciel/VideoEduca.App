@@ -53,7 +53,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 ## 🤷‍♂️Para que foi Desenvolvido:
 
 <p>
-  O aplicativo tem o intuito de ajudar os estudantes dos cursos Técnicos Integrados do IFCE com problemas em achar conteúdos para lhe auxiliar em seus estudos.
+  O aplicativo tem o intuito de ajudar os estudantes dos cursos Técnicos Integrados do IFCE com problemas em achar conteúdos para lhe auxiliar em seus estudos acadêmicos.
 </p>
 
 ## 💻Plataforma de Desenvolvimento Utilizada:
@@ -75,7 +75,7 @@ print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em u
 </h3>
 
 <p>
-  O motivo de usarmos o Swift como Linguagem base, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
+  O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
 </p>
 
 ## 📸Imagens do Aplicativo:
