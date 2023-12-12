@@ -10,11 +10,6 @@
 print("Video aulas direcionadas para o seu sucesso acadêmico, disponíveis em um só lugar")
 ```
 
-
-<h2 align = "center">
-  🚧Projeto em Construção🚧
-</h2>
-
 <div align = "center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
